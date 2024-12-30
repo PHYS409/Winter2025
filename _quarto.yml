@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "PHYS 308 Fall 2024"
+  title: "PHYS 409 Winter 2025"
   navbar:
     background: primary #color of background is primary color in palette
     search: true
@@ -11,7 +11,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: https://phys308.github.io/
+      - href: https://phys409.github.io/
         text: "Course Description"
         target: _blank #makes it open in new page
       - href: https://docs.google.com/spreadsheets/d/12bIFUWPCjQ1M-Uhela3GO7mmHF07_UZhAoRJAUmq4t4/edit?usp=sharing
