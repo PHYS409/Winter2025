@@ -1,0 +1,176 @@
+---
+title: "Syllabus"
+format: 
+  html:
+    toc: true
+    link-external-newwindow: true
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+    self-contained: true
+editor: source
+---
+
+## Classroom expectations {#classexpectations}
+
+::: panel-tabset
+### What you can expect from me
+
+-   I will stay home if I am feeling sick and make arrangements to deliver the course material
+-   I will work with you to arrange accommodations when you need them
+-   I will respect your time by starting and ending class on time
+-   I will answer your questions thoughtfully, and if I don't know the answer, I will follow up in a timely manner
+-   I will embrace who you are as whole people
+-   I will model respect, openness, and engagement, and foster a supportive and inclusive environment
+-   I will be honest when I make mistakes, because failure is part of growing
+
+### What I expect from you
+
+-   That you will stay home if you are sick and contact me via email to arrange accommodations
+-   That you genuinely attempt to engage with the course
+-   That you ask questions if you are confused (you may do this privately -- there is no obligation to ask during class hours)
+-   That you communicate with me when you have problems that interfere with your ability to engage with the coursework
+-   That you treat your peers with respect and openness, and that you participate in creating an inclusive, supportive, and engaged classroom
+
+### What is not expected
+-   Perfection. Ever. It's a myth.
+-   That you will 'sit still' or ask for permission to leave the classroom to go to the bathroom or if you just need a minute.
+-   That everyone will learn in the same way. You do not have to match some "model student" to do well in this class
+:::
+
+## Assignments and Grading {#assignments}
+
+Assignments fall into "bundles," which contribute to your grade in specific ways. Your performance on each bundle determines your rough letter grade (full letters). Beyond that, you can achieve grade boosts, which round your grade up, e.g. from a B to a B+, or a B+ to an A-.
+
+You can learn more about each category [below](#categories).
+
+### Grading Scheme {#gradingscheme}
+
+### Table of letter grades
+
+| Letter grade | Reading Quizzes          | Unit Problems               | Final Portfolio                         | Midterm and Final | Presentation
+|--------------|--------------------------| ----------------------------|-----------------------------------------|-------------------| ----------------------|
+| D            | Earn 70% of the points   | Complete 5 of 15 problems   | Pass 3 of 5 problems                    | Optional          | Optional (replaces a grade item)
+| C            | Earn 70% of the points   | Complete 8 of 15 problems   | Pass 4 of 5 problems                    | Attempt one       | Optional (replaces a grade item)
+| B            | Earn 70% of the points   | Complete 12 of 15 problems  | Pass all 5 problems                     | Pass one          | Must attempt 1 (replaces a grade item)
+| A            | Earn 70% of the points   | Complete all 15 problems    | Pass all 5 problems, plus at least 1 E  | Pass both         | Must attempt 1 (replaces a grade item)
+
+: Letter grades {.striped .hover}
+
+
+### Bundle visualization 
+
+![](images/PHYS308_GradingBundles.png)
+
+### Grading scales
+::: panel-tabset
+#### Points
+Reading quizzes will be graded on a points scale: each quiz has 10 problems and each is worth 1 point.
+
+#### Completion
+
+The portfolio problems for each unit will be graded on completion. You will be able to see the solutions and self-assess your work, but I will look to ensure that a sincere attempt was made on each problem.  
+
+#### E/M/U/N {#emun}
+The individual final portfolio problems, presentations, and the midterm and final will be graded on the following scale:
+
+- E: excellent -- this is a thorough and correct response that demonstrates excellent understanding of the concepts and makes proper use of the mathematical skills expected in this class.
+- M: meets expectations -- this is a response that demonstrates solid understanding of the concepts but perhaps includes some small mathematical errors or minor conceptual mistakes.
+- U: unsatisfactory / does not meet expectations -- this is an answer that applies the concepts incorrectly, misunderstands the point of the question, does not complete the question, fails to follow instructions, and/or contains significant mathematical errors
+- N: no submission -- if you turn nothing in, you will receive an N.
+
+E and M are considered passing grades. To get an A or B in this class, you must achieve some Es (see the [grading scheme](#gradingscheme))
+
+U and N are considered failing grades.
+
+:::
+
+
+### Grading categories {#categories}
+
+::: panel-tabset
+#### Reading Quizzes {#reading}
+
+In order to get the most out of class, you need to prepare. We will spend most of our time in class practicing problem solving, and before class you will need to read the appropriate sections of the book and respond to a quiz. Some readings are longer than others (and I've included the page count in the [course schedule](https://docs.google.com/spreadsheets/d/12bIFUWPCjQ1M-Uhela3GO7mmHF07_UZhAoRJAUmq4t4/edit?usp=sharing) so you can be prepared), but every reading quiz is 10 questions.
+
+Given the purpose of the reading quizzes, I will not offer extensions, except in case of a major medical or family emergency that causes you to miss class.
+
+#### Unit Problems {#practice}
+
+Each unit (except for the unit on quantum weirdness) will have three problems similar to what we work on in class, but larger in scope and/or difficulty. These problems will be due shortly after the unit is over, and will be graded on completion. 
+
+You may work with classmates on these problems, but please be sure to give credit, which means naming each person you worked with and describing in a sentence or two the contribution they made.
+
+You may request extensions on the unit problems using the [extension form](https://forms.gle/eFx7y7FoSdoukKGC6).
+
+
+#### Final Portfolio {#portfolio}
+
+The idea for this final portfolio assignment is to demonstrate what you have learned in the course and to create something for which you can take ownership and feel proud. We will get a lot of practice with problem solving this semester, and this is a chance to go back and curate some of what you have done. 
+
+The intended audience is a fellow student who had not previously seen the unit questions you have chosen, but is curious to know how to solve them. For example, you could imagine yourself at the beginning of the semester, or a classmate earlier this semester who was unsure how to approach a problem. Would that intended audience be able to understand your approach and your logic? Would they feel empowered to learn based on what you have created for them?
+
+The assignment will involve redoing 5 problems (one from each unit) in a manner that clearly presents the logic and reasoning behind your answers. It will be useful to restate the problem in your own words, clearly identifying known and unknown quantities. You will then want to describe and demonstrate your approach to solving the problem. Once you arrive at an answer, it will also be helpful to reflect on the implications of that answer. This could include a consideration of how the answer depends on certain variables, or how the answer might be different for a slightly different situation.
+
+Each problem is graded on an [E/M/U/N scale](#emun), and an E and M are both considered passing grades.
+
+You may request an extension on the final portfolio using the [extension form](https://forms.gle/eFx7y7FoSdoukKGC6). Please note, however, that deadline cannot be extended beyond the end of final exam period.
+
+#### Tests {#tests}
+
+There will be one midterm, which will be given during class time, and one final, which will be given during the scheduled final exam time. You may bring a double-sided 8.5"x11" sheet of paper with equations and notes - hand-written (please speak to me if you need to type the sheet and we will come up with a plan). This paper will be turned in with your test.
+
+These are graded on an [E/M/U/N scale](#emun). 
+
+#### Presentations {#presentations}
+
+After every unit, you will have a chance to present one of the problems to the class in a group of up to three. You should teach the problem in a step-by-step way -- you can skip some algebra but should not skip any conceptual steps, you should explain your reasoning for each step, and you should idenitify and resolve at least one common challenge or misconception that can arise when solving the problem. 
+
+You will be graded on the correctness and completeness of the solution, clarity of your explanation, soundness of your reasoning, and resolution of the common challenge.
+
+These are graded on an [E/M/U/N scale](#emun), and you may use your presentation score to replace one of the following:
+
+- your reading quiz score for the semester (an M or higher gives you full credit)
+- one unit worth of problems (an M or higher gives you full credit for one unit's problems)
+- one final portfolio problem
+- your midterm or final exam grade
+
+I will always replace the grade item that most benefits you, and will never replace a better score with a worse one. The Presentations can only help you.
+
+Since the presentations are scheduled for specific days, you cannot request an extension.
+
+If you want to get a B or higher in the class, you have to at least try a presentation. Given the limitations on time, you may not be able to do more than one -- I will prioritize students who have not yet done a presentation on the sign-up sheet.
+
+:::
+
+### Grading boosts
+
+::: panel-tabset
+#### Effort Boost
+
+If you earn 85% of the reading quiz points, turn in every unit problem, turn in a complete portfolio, attempt both exams, and do a presentation, you will gain a grade round up for effort, regardless of the outcome of your work.
+
+#### Problem-Solver Boost
+
+If you earn more than one E on your final portfolio, you will get a grade round-up
+
+#### Growth Boost
+
+If you demonstrate consistent improvement in your work across the semester, I reserve the right to round your grade up.
+
+#### Self-Assessment Boost
+
+If you earn a U on the midterm, you can correct your work for a grade round-up. To do this you must:
+
+  - Re-solve the midterm (the whole problem) from scratch
+  - Compare any places where your new work is different from your previous work and explain in writing the mistakes you made and the outcomes
+  - Email me your write-up
+  - Schedule a 15 minute meeting with me to talk over your write-up (the write-up needs to be submitted at least 24 hours in advance of this meeting)
+:::
+
+## Deadlines and Extensions {#deadlines}
+If you need an extension, you may request one using [this form](https://forms.gle/eFx7y7FoSdoukKGC6). I recognize that things come up and you may require flexibility at some point in the semester. Please feel free to reach out to me directly if you are struggling to meet a deadline. I want to support you and make sure you have the best possible chance for success in this class, and the only way I can help is if you communicate with me.
+
+In general, I am happy to be flexible. Please note, however, that some assignments will have stricter deadlines. These assignments include the reading quizzes and the presentation, and the nature of the deadlines is discussed in their descriptions above.
+
