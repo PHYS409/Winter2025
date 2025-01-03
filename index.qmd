@@ -55,6 +55,6 @@ This course covers the following content:
   
     -   Hyperfine structure
     -   Stark Effect
-  
+
 -   Angular momentum addition rules and the Clebsch-Gordon Coefficients
 -   Identical particles
