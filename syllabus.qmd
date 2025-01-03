@@ -49,31 +49,30 @@ You can learn more about each category [below](#categories).
 
 ### Table of letter grades
 
-| Letter grade | Reading Quizzes          | Unit Problems               | Final Portfolio                         | Midterm and Final | Presentation
-|--------------|--------------------------| ----------------------------|-----------------------------------------|-------------------| ----------------------|
-| D            | Earn 70% of the points   | Complete 5 of 15 problems   | Pass 3 of 5 problems                    | Optional          | Optional (replaces a grade item)
-| C            | Earn 70% of the points   | Complete 8 of 15 problems   | Pass 4 of 5 problems                    | Attempt one       | Optional (replaces a grade item)
-| B            | Earn 70% of the points   | Complete 12 of 15 problems  | Pass all 5 problems                     | Pass one          | Must attempt 1 (replaces a grade item)
-| A            | Earn 70% of the points   | Complete all 15 problems    | Pass all 5 problems, plus at least 1 E  | Pass both         | Must attempt 1 (replaces a grade item)
+| Letter grade | Reading Quizzes          | WHW + self-assessments  | Unit tests (x3)               | Final Project (5 steps)  
+|--------------|--------------------------| ------------------------|-------------------------------|------------------------
+| D            | Earn 75% of the points   | Earn 75% of the points  | At least M on 1               | Complete 2 components   
+| C            | Earn 75% of the points   | Earn 75% of the points  | At least M on 2               | Complete 3 components 
+| B            | Earn 85% of the points   | Earn 85% of the points  | At least M on all 3           | Complete 4 components   
+| A            | Earn 85% of the points   | Earn 85% of the points  | At least M on all 3, plus 1 E | Complete 4 components  
 
 : Letter grades {.striped .hover}
 
 
 ### Bundle visualization 
 
-![](images/PHYS308_GradingBundles.png)
+![](images/PHYS409_GradeBundles.jpg)
 
 ### Grading scales
 ::: panel-tabset
 #### Points
-Reading quizzes will be graded on a points scale: each quiz has 10 problems and each is worth 1 point.
+Homeworks and pre-class quizzes will be graded on a points scale. Your total grade for the bundle will be your average points on the assignments.
 
 #### Completion
-
-The portfolio problems for each unit will be graded on completion. You will be able to see the solutions and self-assess your work, but I will look to ensure that a sincere attempt was made on each problem.  
+The final project components will each have objectives you must meet for them to be considered "complete." These will be clearly laid out for each component so you know exactly what to do to complete them.
 
 #### E/M/U/N {#emun}
-The individual final portfolio problems, presentations, and the midterm and final will be graded on the following scale:
+The unit tests will be graded on the following scale:
 
 - E: excellent -- this is a thorough and correct response that demonstrates excellent understanding of the concepts and makes proper use of the mathematical skills expected in this class.
 - M: meets expectations -- this is a response that demonstrates solid understanding of the concepts but perhaps includes some small mathematical errors or minor conceptual mistakes.
