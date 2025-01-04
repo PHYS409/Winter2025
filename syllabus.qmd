@@ -49,12 +49,12 @@ You can learn more about each category [below](#categories).
 
 ### Table of letter grades
 
-| Letter grade | Reading Quizzes          | WHW + self-assessments  | Unit tests (x3)               | Final Project (5 steps)  
+| Letter grade | Pre-Class Quizzes        | WHW + self-assessments  | Unit tests (x3)               | Final Project (5 components)  
 |--------------|--------------------------| ------------------------|-------------------------------|------------------------
-| D            | Earn 75% of the points   | Earn 75% of the points  | At least M on 1               | Complete 2 components   
-| C            | Earn 75% of the points   | Earn 75% of the points  | At least M on 2               | Complete 3 components 
-| B            | Earn 85% of the points   | Earn 85% of the points  | At least M on all 3           | Complete 4 components   
-| A            | Earn 85% of the points   | Earn 85% of the points  | At least M on all 3, plus 1 E | Complete 4 components  
+| D            | Earn 75% of the points   | Earn 75% of the points  | At least M on 1               | Proposal and Presentation/Report   
+| C            | Earn 75% of the points   | Earn 75% of the points  | At least M on 2               | Proposal and Presentation/Report plus any other component
+| B            | Earn 85% of the points   | Earn 85% of the points  | At least M on all 3           | Proposal and Presentation/Report plus any 2 other components   
+| A            | Earn 85% of the points   | Earn 85% of the points  | At least M on all 3, plus 1 E | Complete all components  
 
 : Letter grades {.striped .hover}
 
@@ -66,10 +66,10 @@ You can learn more about each category [below](#categories).
 ### Grading scales
 ::: panel-tabset
 #### Points
-Homeworks and pre-class quizzes will be graded on a points scale. Your total grade for the bundle will be your average points on the assignments.
+Homeworks and pre-class quizzes will be graded on a points scale. Your total grade for the bundle will be your average points on the assignments. Remember that these are not graded on "correctness" but rather on engaging in good faith.
 
 #### Completion
-The final project components will each have objectives you must meet for them to be considered "complete." These will be clearly laid out for each component so you know exactly what to do to complete them.
+The five final project components will each have objectives you must meet for them to be considered "complete." These will be clearly laid out for each component so you know exactly what to do to complete them.
 
 #### E/M/U/N {#emun}
 The unit tests will be graded on the following scale:
@@ -77,11 +77,9 @@ The unit tests will be graded on the following scale:
 - E: excellent -- this is a thorough and correct response that demonstrates excellent understanding of the concepts and makes proper use of the mathematical skills expected in this class.
 - M: meets expectations -- this is a response that demonstrates solid understanding of the concepts but perhaps includes some small mathematical errors or minor conceptual mistakes.
 - U: unsatisfactory / does not meet expectations -- this is an answer that applies the concepts incorrectly, misunderstands the point of the question, does not complete the question, fails to follow instructions, and/or contains significant mathematical errors
-- N: no submission -- if you turn nothing in, you will receive an N.
+- N: no submission -- if you do not take the test, you will receive an N.
 
-E and M are considered passing grades. To get an A or B in this class, you must achieve some Es (see the [grading scheme](#gradingscheme))
-
-U and N are considered failing grades.
+E and M are considered passing grades. U and N are considered failing grades, but you have one chance to make up that grade, as every test will be given twice.
 
 :::
 
@@ -89,83 +87,69 @@ U and N are considered failing grades.
 ### Grading categories {#categories}
 
 ::: panel-tabset
-#### Reading Quizzes {#reading}
+#### Pre-Class Quizzes {#pcq}
 
-In order to get the most out of class, you need to prepare. We will spend most of our time in class practicing problem solving, and before class you will need to read the appropriate sections of the book and respond to a quiz. Some readings are longer than others (and I've included the page count in the [course schedule](https://docs.google.com/spreadsheets/d/12bIFUWPCjQ1M-Uhela3GO7mmHF07_UZhAoRJAUmq4t4/edit?usp=sharing) so you can be prepared), but every reading quiz is 10 questions.
+In order to get the most out of class, you need to prepare. We will spend most of our time in class practicing problem solving, and before class you will need to read the appropriate sections of the book and take a "quiz". Some readings are longer than others (and I've included the page count in the [course schedule](https://docs.google.com/spreadsheets/d/1MBB7MfZfe-Gi5TbngnX-HuC6R6krND6FmvPM4rGqc0o/edit?usp=sharing) so you can be prepared), but every reading quiz is 5 questions, some of which will be practice problems.
 
-Given the purpose of the reading quizzes, I will not offer extensions, except in case of a major medical or family emergency that causes you to miss class.
+Given the purpose of the pre-class quizzes, I will not offer extensions, except in case of a major medical or family emergency that causes you to miss class.
 
-#### Unit Problems {#practice}
+#### WHW and self-assessment {#whw}
 
-Each unit (except for the unit on quantum weirdness) will have three problems similar to what we work on in class, but larger in scope and/or difficulty. These problems will be due shortly after the unit is over, and will be graded on completion. 
+There are seven homework sets (one every week except on test weeks) as well as a self-reflection form.
 
-You may work with classmates on these problems, but please be sure to give credit, which means naming each person you worked with and describing in a sentence or two the contribution they made.
+You will turn in your work on the homework by scanning and uploading as a PDF to Lyceum. These are due by class time on Friday. You will then have a self-reflection due 72 hours later (by class time on Monday).
 
-You may request extensions on the unit problems using the [extension form](https://forms.gle/eFx7y7FoSdoukKGC6).
+The problem sets are self-graded. Here’s how that works:
 
+-   You get 50% of the points just for submitting the homework on time.
+-   When you submit your work, you will receive access to the (detailed) solutions.
+-   The rest of the points come from comparing your work to the solutions and filling out a guided self-reflection form.
+-   These forms are not intended to make you do “extra work” – these are to help both you and me understand where you need more practice and more support.
 
-#### Final Portfolio {#portfolio}
+You may request extensions on the homeworks using the [extension form](https://forms.gle/eFx7y7FoSdoukKGC6).
 
-The idea for this final portfolio assignment is to demonstrate what you have learned in the course and to create something for which you can take ownership and feel proud. We will get a lot of practice with problem solving this semester, and this is a chance to go back and curate some of what you have done. 
+#### Unit tests {#tests}
 
-The intended audience is a fellow student who had not previously seen the unit questions you have chosen, but is curious to know how to solve them. For example, you could imagine yourself at the beginning of the semester, or a classmate earlier this semester who was unsure how to approach a problem. Would that intended audience be able to understand your approach and your logic? Would they feel empowered to learn based on what you have created for them?
+There will be three tests on the material in this class. Each test will be offered two times, two weeks apart, giving you two opportunities to achieve your desired grade on the tests. The tests are graded on an [E/M/U/N scale](#emun), and an E and M are both considered passing grades. 
 
-The assignment will involve redoing 5 problems (one from each unit) in a manner that clearly presents the logic and reasoning behind your answers. It will be useful to restate the problem in your own words, clearly identifying known and unknown quantities. You will then want to describe and demonstrate your approach to solving the problem. Once you arrive at an answer, it will also be helpful to reflect on the implications of that answer. This could include a consideration of how the answer depends on certain variables, or how the answer might be different for a slightly different situation.
+You will be provided with an equation sheet for each test, which will have some useful equations, integrals, trig identities, etc. You may also bring a single-sided 8.5"x11" sheet of paper with equations and notes - hand-written (please speak to me if you need to type the sheet and we will come up with a plan). This paper will be turned in with your test.
 
-Each problem is graded on an [E/M/U/N scale](#emun), and an E and M are both considered passing grades.
+If you have to miss class or leave early on a Friday due to an approved excuse, you may take the test at the testing center. You must do this no more than 2 days before the test is given and no more than 5 days after (i.e. starting the Wednesday before the test and ending the Wednesday after the test), and you can request this option through AESS using this [form](https://www.bates.edu/accessible-education-student-support/makeup-exam-requests/). This is so I can provide timely feedback to everyone on the test. If you are not sure your absence is excused or you feel you have a special circumstance, come and talk to me about it and we will discuss the options.
 
-You may request an extension on the final portfolio using the [extension form](https://forms.gle/eFx7y7FoSdoukKGC6). Please note, however, that deadline cannot be extended beyond the end of final exam period.
+You don't have to do anything special to take the test a second time, but I recommend coming to my office hours or scheduling a meeting with me if you are at all confused about what you missed. I am more than happy to help talk you through the test.
 
-#### Tests {#tests}
+#### Final Project {#project}
 
-There will be one midterm, which will be given during class time, and one final, which will be given during the scheduled final exam time. You may bring a double-sided 8.5"x11" sheet of paper with equations and notes - hand-written (please speak to me if you need to type the sheet and we will come up with a plan). This paper will be turned in with your test.
+By the end of this class, you will have had two semesters of instruction in quantum mechanics and be well-versed in the fundamentals and how to use the mathematics to derive real-world measurements. Now, you get a chance to pick something about quantum mechanics that you want to know more about and dig deeply.
 
-These are graded on an [E/M/U/N scale](#emun). 
+This project is designed to be open-ended. I want you be as creative as you want to be. If you want to con- nect quantum mechanics to the arts, be my guest! If you want to do a deep dive into the historical development of the ideas of quantum mechanics, please enlighten us! If you want to do a computational project where you apply your programming skills to a concept you learned in this class, that would be awesome! If you want to teach a topic from the book that we haven’t covered yet to the rest of the class, we would love that! Want to record a podcast interviewing scientists in the field? Great!
 
-#### Presentations {#presentations}
+Think about where you want to stretch your understanding, and let that guide you.
 
-After every unit, you will have a chance to present one of the problems to the class in a group of up to three. You should teach the problem in a step-by-step way -- you can skip some algebra but should not skip any conceptual steps, you should explain your reasoning for each step, and you should idenitify and resolve at least one common challenge or misconception that can arise when solving the problem. 
-
-You will be graded on the correctness and completeness of the solution, clarity of your explanation, soundness of your reasoning, and resolution of the common challenge.
-
-These are graded on an [E/M/U/N scale](#emun), and you may use your presentation score to replace one of the following:
-
-- your reading quiz score for the semester (an M or higher gives you full credit)
-- one unit worth of problems (an M or higher gives you full credit for one unit's problems)
-- one final portfolio problem
-- your midterm or final exam grade
-
-I will always replace the grade item that most benefits you, and will never replace a better score with a worse one. The Presentations can only help you.
-
-Since the presentations are scheduled for specific days, you cannot request an extension.
-
-If you want to get a B or higher in the class, you have to at least try a presentation. Given the limitations on time, you may not be able to do more than one -- I will prioritize students who have not yet done a presentation on the sign-up sheet.
+Since there is so much freedom, I’m building a lot of scaffolding into the process, and that scaffolding will be the basis of the grade. So if you want to take a big risk and try something new, you don’t have to worry that if it doesn’t go well, you will fail. The scaffolding is detailed on Lyceum, and there are five parts: the pitch, the proposal, the annotated bibliography, the progress report, and the final presentation and write-up. You must do the proposal and the final presentation and write-up to pass the class -- completing other components of the final project will contribute to higher base letter grades (see the [grading scheme](#gradingscheme) for more details.)
 
 :::
 
 ### Grading boosts
 
 ::: panel-tabset
-#### Effort Boost
+#### Test crusher
 
-If you earn 85% of the reading quiz points, turn in every unit problem, turn in a complete portfolio, attempt both exams, and do a presentation, you will gain a grade round up for effort, regardless of the outcome of your work.
+Each additional E you earn above what was required for your base letter grade will round your grade up (max 2 round-ups).
 
-#### Problem-Solver Boost
+#### Time Management
+If you use no more than 3 extension requests all semester, I will round your grade up.
 
-If you earn more than one E on your final portfolio, you will get a grade round-up
+#### Completionist
+If you get 100% on the homework or the pre-class quizzes, I will round your grade up (one round-up only).
+
+#### Final Project Ace
+If you do go above and beyond expectations on your final project, I will round your grade up (this is at my discretion).
 
 #### Growth Boost
 
-If you demonstrate consistent improvement in your work across the semester, I reserve the right to round your grade up.
+If you demonstrate consistent improvement in your work across the semester, I will round your grade up.
 
-#### Self-Assessment Boost
-
-If you earn a U on the midterm, you can correct your work for a grade round-up. To do this you must:
-
-  - Re-solve the midterm (the whole problem) from scratch
-  - Compare any places where your new work is different from your previous work and explain in writing the mistakes you made and the outcomes
-  - Email me your write-up
-  - Schedule a 15 minute meeting with me to talk over your write-up (the write-up needs to be submitted at least 24 hours in advance of this meeting)
 :::
 
 ## Deadlines and Extensions {#deadlines}
