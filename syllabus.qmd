@@ -136,18 +136,23 @@ Your base grade will be calculated from the table above, but you can round your 
 I will apply as many grade boosts as you achieve, with one exception:
 
 You can only achieve an A+ in this class if you receive a base A grade. The A+ grade does not have an impact on your GPA, and so I am reserving it as a way of acknowledging especially excellent work across the course of the semester.
+
 ::: panel-tabset
+
 #### Test crusher
 
 Each additional E you earn above what was required for your base letter grade will round your grade up (max 2 round-ups).
 
 #### Time Management
+
 If you use no more than 3 extension requests all semester, I will round your grade up.
 
 #### Completionist
+
 If you get 100% on the homework or the pre-class quizzes, I will round your grade up (one round-up only).
 
 #### Final Project Ace
+
 If you do go above and beyond expectations on your final project, I will round your grade up (this is at my discretion).
 
 #### Growth Boost
