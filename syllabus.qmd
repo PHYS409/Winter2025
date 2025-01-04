@@ -131,7 +131,11 @@ Since there is so much freedom, I’m building a lot of scaffolding into the pro
 :::
 
 ### Grading boosts
+Your base grade will be calculated from the table above, but you can round your grade up in a number of ways.
 
+I will apply as many grade boosts as you achieve, with one exception:
+
+You can only achieve an A+ in this class if you receive a base A grade. The A+ grade does not have an impact on your GPA, and so I am reserving it as a way of acknowledging especially excellent work across the course of the semester.
 ::: panel-tabset
 #### Test crusher
 

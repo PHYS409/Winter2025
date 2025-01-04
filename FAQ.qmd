@@ -14,8 +14,8 @@ editor: source
 
 ## When and where is class?
 
--   When: Monday, Wednesday, and Friday, 1:10PM-2:30PM
--   Where: Carnegie 225
+-   When: Monday, Wednesday, and Friday, 2:40PM-4:00PM
+-   Where: Carnegie 339
 
 ## Where do I get my textbook?
 
@@ -27,13 +27,11 @@ To find the library copies, go to [librarysearch.bates.edu](librarysearch.bates.
 
 ## When are your office hours? {#officehours}
 
-Office hours:
+I will have two hours of office hours a week, plus time reserved in my schedule for one-on-one meetings. You can schedule the meetings through calendly (link in Lyceum).
 
--   Mondays 11AM-12PM in my research space
--   Wednesdays 4PM-5PM (right after class) in Carnegie 339
--   Thursdays 1:30PM-2:30PM in my research space
+Office hours will be scheduled after the first week of class, using input from the first week of class form to maximize the overlap in my schedule and all of yours (this will not be perfect, but I will do my best).
 
-If you schedule a one-on-one meeting, it will be in my office. The location of my office and my research space are both in Lyceum.
+If you schedule a one-on-one meeting, it will be in my office. The location of my office and my research space are both in Lyceum, along with the calendly link.
 
 ## Should I go to office hours? {#goingtoofficehours}
 
@@ -47,7 +45,7 @@ If you are enrolled in the class but do not have access to Lyceum, please let me
 
 ## When is \_\_ due? {#duedates}
 
-You can find all due dates on the [course schedule](https://docs.google.com/spreadsheets/d/12bIFUWPCjQ1M-Uhela3GO7mmHF07_UZhAoRJAUmq4t4/edit?usp=sharing). Dates are subject to change, but will always be kept up to date on the schedule so check back if you're not sure.
+You can find all due dates on the [course schedule](https://docs.google.com/spreadsheets/d/1MBB7MfZfe-Gi5TbngnX-HuC6R6krND6FmvPM4rGqc0o/edit?usp=sharing). Dates are subject to change, but will always be kept up to date on the schedule so check back if you're not sure.
 
 ## Can I have an extension? {#extensionpolicy}
 
@@ -57,11 +55,17 @@ Please note that the 48 hour extension is automatically granted, while anything 
 
 For more on my deadlines and extension policy, see the [syllabus](syllabus.qmd#deadlines).
 
+## Can I re-do something I did poorly on? {#revisionpolicy}
+
+You can retake each test one time, and I will take the higher of the two grades as your final grade for that test. You can revise all the components of your final project aside from the final presentation and write-up if you don't acheive all the objectives for that component. If that happens, I will tell you the deadline for a revision (generally 1-2 weeks, depending on how much time before the next milestone is due).
+
+PCQs and WHWs cannot be revised. You also cannot revise anything you don't turn in (receiving an N means you lose the chance to try again, so turn things in!).
+
 ## When will you reply to my email? {#emails}
 
 Timely communication is really important, but in order to be an effective instructor and a well-adjusted human, I also need to be able to take breaks from email.
 
-If you email me on a weekday, you can expect a response from me within 24 hours. If you email me on a weekend or a holiday, you can expect a response from me by class time on the first day back.
+If you email me on a weekday, you can expect a response from me within 48 hours. If you email me on a weekend or a holiday, you can expect a response from me by the end of the day on the first day back.
 
 ## Do you grade on a curve? {#gradingcurve}
 
