@@ -65,7 +65,7 @@
     "href": "FAQ.html",
     "title": "FAQ",
     "section": "",
-    "text": "When: Monday, Wednesday, and Friday, 1:10PM-2:30PM\nWhere: Carnegie 225",
+    "text": "When: Monday, Wednesday, and Friday, 2:40PM-4:00PM\nWhere: Carnegie 339",
     "crumbs": [
       "FAQ"
     ]
@@ -75,7 +75,7 @@
     "href": "FAQ.html#when-and-where-is-class",
     "title": "FAQ",
     "section": "",
-    "text": "When: Monday, Wednesday, and Friday, 1:10PM-2:30PM\nWhere: Carnegie 225",
+    "text": "When: Monday, Wednesday, and Friday, 2:40PM-4:00PM\nWhere: Carnegie 339",
     "crumbs": [
       "FAQ"
     ]
@@ -95,7 +95,7 @@
     "href": "FAQ.html#officehours",
     "title": "FAQ",
     "section": "When are your office hours?",
-    "text": "When are your office hours?\nOffice hours:\n\nMondays 11AM-12PM in my research space\nWednesdays 4PM-5PM (right after class) in Carnegie 339\nThursdays 1:30PM-2:30PM in my research space\n\nIf you schedule a one-on-one meeting, it will be in my office. The location of my office and my research space are both in Lyceum.",
+    "text": "When are your office hours?\nI will have two hours of office hours a week, plus time reserved in my schedule for one-on-one meetings. You can schedule the meetings through calendly (link in Lyceum).\nOffice hours will be scheduled after the first week of class, using input from the first week of class form to maximize the overlap in my schedule and all of yours (this will not be perfect, but I will do my best).\nIf you schedule a one-on-one meeting, it will be in my office. The location of my office and my research space are both in Lyceum, along with the calendly link.",
     "crumbs": [
       "FAQ"
     ]
@@ -145,7 +145,7 @@
     "href": "FAQ.html#emails",
     "title": "FAQ",
     "section": "When will you reply to my email?",
-    "text": "When will you reply to my email?\nTimely communication is really important, but in order to be an effective instructor and a well-adjusted human, I also need to be able to take breaks from email.\nIf you email me on a weekday, you can expect a response from me within 24 hours. If you email me on a weekend or a holiday, you can expect a response from me by class time on the first day back.",
+    "text": "When will you reply to my email?\nTimely communication is really important, but in order to be an effective instructor and a well-adjusted human, I also need to be able to take breaks from email.\nIf you email me on a weekday, you can expect a response from me within 48 hours. If you email me on a weekend or a holiday, you can expect a response from me by the end of the day on the first day back.",
     "crumbs": [
       "FAQ"
     ]
@@ -263,5 +263,15 @@
     "title": "PHY 409 Winter 2025",
     "section": "Course Topics",
     "text": "Course Topics\nThis course covers the following content:\n\nQuantum Harmonic Oscillators\nLadder operators\nPerturbation Theory - degenerate and non-degenerate\nStructure of the Hydrogen Atom under special circumstances\n\nHyperfine structure\nStark Effect\n\nAngular momentum addition rules and the Clebsch-Gordon Coefficients\nIdentical particles"
+  },
+  {
+    "objectID": "FAQ.html#revisionpolicy",
+    "href": "FAQ.html#revisionpolicy",
+    "title": "FAQ",
+    "section": "Can I re-do something I did poorly on?",
+    "text": "Can I re-do something I did poorly on?\nYou can retake each test one time, and I will take the higher of the two grades as your final grade for that test. You can revise all the components of your final project aside from the final presentation and write-up if you don’t acheive all the objectives for that component. If that happens, I will tell you the deadline for a revision (generally 1-2 weeks, depending on how much time before the next milestone is due).\nPCQs and WHWs cannot be revised. You also cannot revise anything you don’t turn in (receiving an N means you lose the chance to try again, so turn things in!).",
+    "crumbs": [
+      "FAQ"
+    ]
   }
 ]
